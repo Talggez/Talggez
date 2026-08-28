@@ -10,6 +10,8 @@ Estudiante de Ingeniería Civil Informática en la Universidad Andrés Bello (UN
 - 🧠 Me interesan la predicción de series de tiempo, la visión computacional y los modelos de visión-lenguaje (VLM)
 - 💻 También construyo aplicaciones web completas, de backend a frontend
 - 📌 Los proyectos fijados abajo son la mejor evidencia de en qué he trabajado
+- adapto soluciones a empresas desde flujos simples a desarrollo full con validaciones automatizadas para mejorar procesos o sistemas mas todo su respaldo en documentación,
+deje una evidencia de mis trabajos por si quiere hacer vista de alguno de mis desarrollos tanto en colaboración en equipo como individual
 
 ## Tecnologías
 
