@@ -5,6 +5,11 @@ Estudiante de Ingeniería Civil Informática en la Universidad Andrés Bello (UN
 🟢 **Disponible para nuevas oportunidades laborales** — abierto a roles en Data Science, Machine Learning o desarrollo full-stack.
 
 ## Sobre mí
+* 🔭 I navigate between Data Science / Machine Learning and Full-Stack Development.
+* 🧠 Currently working on a project to improve the precision of Vision-Language Models (VLM) applied to time-series graphics, analyzing performance metrics such as MAE and variable correlation.
+* 💼 Experience managing architectures like SQL Server in ERP software environments, complemented by a practical understanding of accounting principles and financial reporting (IFRS standards, balance sheet classification).
+* 🌱 Strong interest in sustainable technology, advocating for Green IT practices and data center optimization to reduce AI's carbon footprint.
+* 💻 I build complete web applications and adapt technological solutions for companies, ranging from simple workflows to full-stack development with automated validations to improve processes and systems.
 
 - 🔭 Me muevo entre ciencia de datos / machine learning y desarrollo full-stack
 - 🧠 Me interesan la predicción de series de tiempo, la visión computacional y los modelos de visión-lenguaje (VLM)
