@@ -19,5 +19,5 @@ Estudiante de Ingeniería Civil Informática en la Universidad Andrés Bello (UN
 
 ## 📫 Contacto
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tomasaguileralillo@gmail.com)
+tomasaguileralillo@gmail.com
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomas-aguilera-34a994331)
